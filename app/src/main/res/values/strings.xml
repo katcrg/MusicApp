@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+
+    <string name="text_navigation_gallery">Galería</string>
+    <string name="text_navigation_music">Música</string>
+    <string name="text_navigation_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="shared_preferences_key">MUSIC</string>
+
+    <string name="username_key">USERNAME_KEY</string>
+    <string name="fullname_key">FULLNAME_KEY</string>
+    <string name="user_biography_key">USER_BIOGRAPHY_KEY</string>
+
+</resources>
